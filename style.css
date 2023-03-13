@@ -81,3 +81,9 @@ body {
   padding: 10px;
   margin-bottom: 20px;
 }
+
+@media (max-width: 576px) {
+  .container {
+    width: 100vw;
+  }
+}
